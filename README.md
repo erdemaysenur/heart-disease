@@ -25,7 +25,7 @@ This database contains 76 attributes, but all published experiments refer to usi
 - number of major vessels (0-3) colored by flourosopy
 - thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 
-##Classifiers
+## Classifiers
 
 - SVC
 - Random Forest Classifier
